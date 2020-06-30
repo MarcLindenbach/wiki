@@ -5,6 +5,7 @@
   - [The Turth About Stores: A Native Narrative By Thomas King](./books/thomas-king/the-truth-about-stories.md)
   - [Three Day Road by Joseph Boyden](./books/joseph-boyden/three-day-road.md)
   - [The Happiness Equation by Neil Pasricha](./books/niel-pasricha/the-happiness-equation.md)
+  - [Man's Search for Meaning by Viktor E Frankl](./books/viktor-frankl/mans-search-for-meaning.md)
 
 ## Topics
   - [Postmodernism](./topics/post-modernism.md)
