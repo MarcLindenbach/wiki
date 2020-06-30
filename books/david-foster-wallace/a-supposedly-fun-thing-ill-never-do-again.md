@@ -1,0 +1,18 @@
+# A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments
+## David Foster Wallace
+
+### Quotes
+  - "Acceptance is its own verve"
+  - "Lonely people tend, rather, to be lonely because they decline to bear the psychic costs of being around other humans. They are allergic to people. People affect them too strongly."
+  - "Television’s greatest minute-by-minute appeal is that it engages without demanding. One can rest while undergoing stimulation. Receive without giving. In this respect, television resembles certain other things one might call Special Treats (e.g. candy, liquor), i.e. treats that are basically fine and fun in small amounts but bad for us in large amounts and really bad for us if consumed in the massive regular amounts reserved for nutritive staples. One can only guess at what volume of gin or poundage of Toblerone six hours of Special Treat a day would convert to."
+  - "But something is malignantly addictive if (1) it causes real problems for the addict, and (2) it offers itself as a relief from the very problems it causes."
+  - "Americans seemed no longer united so much by common beliefs as by common images: what binds us became what we stand witness to."
+  - "For one of realistic fiction’s big jobs used to be to afford easements across borders, to help readers leap over the walls of self and locale and show us unseen or -dreamed-of people and cultures and ways to be. Realism made the strange familiar. Today, when we can eat Tex-Mex with chopsticks while listening to reggae and watching a Soviet-satellite newscast of the Berlin Walls fall—i.e., when damn near everything presents itself as familiar—it’s not a surprise that some of today’s most ambitious Realist fiction is going about trying to make the familiar strange."
+  - "Culture-wise, shall I spend much of your time pointing out the degree to which televisual values influence the contemporary mood of jaded weltschmerz, self-mocking materialism, blank indifference, and the delusion that cynicism and naïveté are mutually exclusive?"
+  - "A national self-consciousness stratified by generation" - Pat Auferhode, “The Look of the Sound,” in good old Gitlin's anthology, p. 113
+  - "So then how have irony, irreverence, and rebellion come to be not liberating but enfeebling in the culture today’s avant-garde tries to write about?"
+  - "Irony has only emergency use. Carried over time, it is the voice of the trapped who have come to enjoy their cage." - Hyde
+  - "Irony’s singularly unuseful when it comes to constructing anything to replace the hypocrisies it debunks."
+  - "What do you do when postmodern rebellion becomes a pop-cultural institution?"
+  - "When all experience can be deconstructed and reconfigured, there become simply too many choices."
+  - "One of the few things I still miss from my Midwest childhood was this weird, deluded but unshakable conviction that everything around me existed all and only For Me. Am I the only one who had this queer deep sense as a kid?—that everything exterior to me existed only insofar as it affected me somehow?—that all things were somehow, via some occult adult activity, specially arranged for my benefit? Does anybody else identify with this memory? The child leaves a room, and now everything in that room, once he’s no longer there to see it, melts away into some void of potential or else (my personal childhood theory) is trundled away by occult adults and stored until the child’s reentry into the room recalls it all back into animate service. Was this nuts? It was radically self-centered, of course, this conviction, and more than a little paranoid. Plus the responsibility it conferred: if the whole of the world dissolved and resolved each time I blinked, what if my eyes didn’t open?"
